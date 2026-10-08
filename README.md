@@ -36,5 +36,6 @@ The Coordinate Measuring Machine (CMM) folder contains:
 
 ## Research
 
-The scripts of this repository were first used in ADD THE ARTICLE
+The scripts of this repository were first used in "Smart laser multilateration method: optimal equivalent laser station arrangement based on workpiece positioning" by Noah Bertin, Thomas Guillanton-Auzerau, Jean-Marc Linares, Santiago Arroyave-Tobon. Submitted to CIRP Annals. Under review
+
 
